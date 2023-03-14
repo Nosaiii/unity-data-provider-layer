@@ -1,0 +1,18 @@
+{
+    "name": "OrangeCheese.DataProviderLayer.Editor",
+    "rootNamespace": "OrangeCheese.DataProviderLayer",
+    "references": [
+        "GUID:0d8141611c68f534da714fce25a78613"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

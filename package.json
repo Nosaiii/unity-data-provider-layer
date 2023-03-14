@@ -1,0 +1,21 @@
+{
+    "name": "orangecheese.data-provider-layer",
+    "version": "0.1.0",
+    "description": "A package to add a layer to the project that will provide data from a selection of sources.",
+    "displayName": "Data Provider Layer",
+    "documentationUrl": "Documentation.pdf",
+    "changelogUrl": "CHANGELOG.md",
+    "dependencies": {
+    },
+    "author": {
+      "name": "Orange Cheese",
+      "email": "support@orangecheese.com",
+      "url": "https://orangecheese.com"
+    },
+    "bugs": {
+    },
+    "samples": [],
+    "type": "tool",
+    "unity": "2020.3",
+    "hideInEditor": false
+  }
